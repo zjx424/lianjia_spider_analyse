@@ -1,0 +1,2 @@
+# lianjia_spider_analyse
+爬取链家95个城市的二手房信息,大概200万条数据,用pandas对每个城市的二手房信息进行分析
