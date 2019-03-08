@@ -18,6 +18,8 @@
 ![阿里云mysql数据库](https://github.com/zjx424/lianjia_spider_analyse/blob/master/%E9%93%BE%E5%AE%B6github/%E6%95%B0%E6%8D%AE%E5%B1%95%E7%A4%BA.png)
 
 可视化(以广州为准):
+
+
 ![均值](https://github.com/zjx424/lianjia_spider_analyse/blob/master/%E9%93%BE%E5%AE%B6github/%E5%9D%87%E5%80%BC.png)
 ![昂贵](https://github.com/zjx424/lianjia_spider_analyse/blob/master/%E9%93%BE%E5%AE%B6github/%E6%98%82%E8%B4%B5.png)
 ![区域数量条形图](https://github.com/zjx424/lianjia_spider_analyse/blob/master/%E9%93%BE%E5%AE%B6github/%E6%95%B0%E9%87%8F%E6%9D%A1%E5%BD%A2%E5%9B%BE.png)
